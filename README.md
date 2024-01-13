@@ -1,7 +1,5 @@
 # jQuery.scrollTo
-
 Lightweight, cross-browser and highly customizable animated scrolling with jQuery
-
 [![](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/2081384/fleslerjquery-scrollTo-on-GitHub)
 [![GitHub version](https://badge.fury.io/gh/flesler%2Fjquery.scrollTo.svg)](http://badge.fury.io/gh/flesler%2Fjquery.scrollTo)
 
